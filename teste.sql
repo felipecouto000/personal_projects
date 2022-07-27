@@ -1,0 +1,6 @@
+select *
+from kis.assignments;
+
+
+
+
