@@ -1,5 +1,5 @@
 select *
-from kis.assignments;
+from kis.assignments as teste;
 
 
 
